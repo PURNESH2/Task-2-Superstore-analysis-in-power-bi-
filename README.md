@@ -1,18 +1,18 @@
-# 📊 Power BI – Data Visualization & Storytelling (Superstore Project)
+# Power BI – Data Visualization & Storytelling (Superstore Project)
 
-## 🔍 Project Overview
+## Project Overview
 This project showcases how to transform sales data into meaningful insights using *Power BI*. It was completed as part of a Data Analyst internship task focused on mastering visual storytelling techniques through charts, dashboards, and summary reports.
 
 ---
 
-## 🗂 Dataset
+## Dataset
 - *Name:* Superstore.csv  
 - *Source:* Sample retail dataset commonly used in analytics projects  
 - *Fields Include:* Order Date, Region, Category, Sub-Category, Sales, Profit, Discount, Quantity, Ship Mode
 
 ---
 
-## 🎯 Objective
+## Objective
 - Create insightful and interactive dashboards
 - Choose the right visual for the right story
 - Avoid clutter and focus on business insights
@@ -21,13 +21,13 @@ This project showcases how to transform sales data into meaningful insights usin
 
 ---
 
-## 📘 Tools Used
+## Tools Used
 - *Power BI Desktop*
 - Data cleaned and visualized using Power BI
 
 ---
 
-## 📊 Key Visualizations
+## Key Visualizations
 - *Sales by Region* – Compare sales performance across geographical areas
 - *Profit vs Discount* – Analyze how discounting affects profitability
 - *Top 10 Products by Sales & Profit* – Identify bestsellers
@@ -37,7 +37,7 @@ This project showcases how to transform sales data into meaningful insights usin
 
 ---
 
-## 📌 Insights Summary
+## Insights Summary
 - The *West* region contributes the highest to sales but has variable profit.
 - *High discounts* often lead to *negative profits*—a key insight for pricing strategy.
 - *Technology* category generates the most profit.
@@ -45,10 +45,9 @@ This project showcases how to transform sales data into meaningful insights usin
 
 ---
 
-## 📎 Deliverables
+## Deliverables
 - ✅ Power BI .pbix file
 - ✅ Dashboard screenshots
-- ✅ Summary PDF highlighting key insights (optional)
 
 ---
 
